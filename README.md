@@ -63,3 +63,8 @@ Encryption formats supported:
  
 
 Encryption algorithms that can not be differentiated unless they have been decrypted, so the efficiency of the software also depends on the user's criteria.
+
+# TODO
+* No interactive mode
+* Add hashcat -m argument type
+* Add hashcat command to brute
